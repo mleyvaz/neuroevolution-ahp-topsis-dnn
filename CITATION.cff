@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "Si usas este repositorio, por favor cita el articulo original y, si corresponde, este repositorio (Zenodo DOI en README)."
+title: "Reproducibility package: Modelo hibrido de neuroevolucion para optimizar arquitecturas DNN con AHP-TOPSIS"
+type: software
+authors:
+  - family-names: "Castro Pinza"
+    given-names: "Nahin Adrian"
+    orcid: "https://orcid.org/0009-0005-6655-4908"
+  - family-names: "Vera Pinargote"
+    given-names: "Diego Adrian"
+    orcid: "https://orcid.org/0009-0004-1029-3879"
+  - family-names: "Rumbaut Rangel"
+    given-names: "Dayron"
+    orcid: "https://orcid.org/0009-0001-9087-0979"
+  - family-names: "Leyva Vazquez"
+    given-names: "Maikel Yelandi"
+    orcid: "https://orcid.org/0000-0001-7911-5879"
+preferred-citation:
+  type: article
+  title: "Modelo hibrido de neuroevolucion para optimizar arquitecturas DNN con AHP-TOPSIS"
+  authors:
+    - family-names: "Castro Pinza"
+      given-names: "Nahin Adrian"
+    - family-names: "Vera Pinargote"
+      given-names: "Diego Adrian"
+    - family-names: "Rumbaut Rangel"
+      given-names: "Dayron"
+    - family-names: "Leyva Vazquez"
+      given-names: "Maikel Yelandi"
+  journal: "Neutrosophic Computing and Machine Learning"
+  volume: 44
+  year: 2026
+  start: 598
+  end: 618

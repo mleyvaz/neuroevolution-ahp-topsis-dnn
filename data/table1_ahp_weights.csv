@@ -1,0 +1,5 @@
+criterio,nombre,tipo,peso
+C1,Precision predictiva,benefit,0.6112
+C2,Tiempo de inferencia (ms),cost,0.2593
+C3,Complejidad de implementacion (M parametros),cost,0.0651
+C4,Capacidad de optimizacion topologica,benefit,0.0645

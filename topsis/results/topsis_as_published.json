@@ -1,0 +1,32 @@
+{
+  "alternatives": [
+    "NE_Arch_B",
+    "Modelo_referencia",
+    "NE_Arch_A",
+    "NE_Arch_C"
+  ],
+  "ranking": [
+    "NE_Arch_B",
+    "Modelo_referencia",
+    "NE_Arch_C",
+    "NE_Arch_A"
+  ],
+  "cci": {
+    "NE_Arch_B": 0.8459230293697946,
+    "Modelo_referencia": 0.4928187091333503,
+    "NE_Arch_A": 0.2497027160763389,
+    "NE_Arch_C": 0.31032749449171915
+  },
+  "d_positive": {
+    "NE_Arch_B": 0.11535624065331129,
+    "Modelo_referencia": 0.37168929651053245,
+    "NE_Arch_A": 0.5063417092416238,
+    "NE_Arch_C": 0.6112
+  },
+  "d_negative": {
+    "NE_Arch_B": 0.6333360537335875,
+    "Modelo_referencia": 0.361163636363639,
+    "NE_Arch_A": 0.16851307177760416,
+    "NE_Arch_C": 0.2750177267013892
+  }
+}

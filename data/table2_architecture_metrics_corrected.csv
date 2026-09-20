@@ -1,0 +1,14 @@
+# Version corregida de la Tabla 2 del articulo.
+# C1 de NE_Arch_B y de Modelo_referencia se reemplaza por la media validada de
+# 10 corridas independientes reportada en la seccion 3.4 del articulo
+# (NE_Arch_B: 86.41%; "red convolucional de referencia": 82.40%), en vez de
+# los valores de una sola corrida publicados en la Tabla 2 original (95.80% y
+# 94.90%). NE_Arch_A y NE_Arch_C nunca fueron sometidas a validacion de 10
+# corridas en el articulo: se conservan sus valores de una sola corrida tal
+# cual fueron publicados, y quedan marcadas como no validadas.
+# Ver docs/DISCREPANCY_NOTE.md para el detalle completo y las fuentes.
+arquitectura,C1_precision_test_pct,C2_tiempo_inferencia_ms,C3_parametros_millones,C4_capacidad_optimizacion,C1_fuente
+NE_Arch_B,86.41,760.00,1.40,54.26,media_validada_10_corridas_sec_3_4
+Modelo_referencia,82.40,880.00,1.60,51.35,media_validada_10_corridas_sec_3_4
+NE_Arch_A,94.10,820.00,1.20,56.08,valor_unico_no_validado_tabla2_original
+NE_Arch_C,93.60,690.00,0.90,60.94,valor_unico_no_validado_tabla2_original

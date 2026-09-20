@@ -1,0 +1,33 @@
+{
+  "alternatives": [
+    "NE_Arch_B",
+    "Modelo_referencia",
+    "NE_Arch_A",
+    "NE_Arch_C"
+  ],
+  "ranking": [
+    "NE_Arch_C",
+    "NE_Arch_A",
+    "NE_Arch_B",
+    "Modelo_referencia"
+  ],
+  "cci": {
+    "NE_Arch_B": 0.39004311255792784,
+    "Modelo_referencia": 0.0,
+    "NE_Arch_A": 0.772143516390993,
+    "NE_Arch_C": 0.961166889942656
+  },
+  "d_positive": {
+    "NE_Arch_B": 0.41795489629638705,
+    "Modelo_referencia": 0.6702239849483156,
+    "NE_Arch_A": 0.18254649738576634,
+    "NE_Arch_C": 0.026119658119658107
+  },
+  "d_negative": {
+    "NE_Arch_B": 0.26726549370384944,
+    "Modelo_referencia": 0.0,
+    "NE_Arch_A": 0.6186003231673372,
+    "NE_Arch_C": 0.6464934310995106
+  },
+  "note": "NE_Arch_B y Modelo_referencia usan la media validada de 10 corridas (seccion 3.4) en vez del valor de una sola corrida de la Tabla 2 original. Ver docs/DISCREPANCY_NOTE.md."
+}

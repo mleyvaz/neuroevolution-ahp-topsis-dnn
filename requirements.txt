@@ -1,0 +1,5 @@
+numpy>=1.24
+# Solo necesario para conectar neuroevolution.py a un fitness real sobre
+# CIFAR-10 (no lo requiere el smoke test sintetico ni los scripts de AHP/TOPSIS):
+# torch>=2.0
+# torchvision>=0.15
